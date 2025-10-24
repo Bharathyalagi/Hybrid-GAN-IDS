@@ -10,12 +10,14 @@ The project explores the use of **ACGAN** and **WCGAN** models combined with mul
 
 ## 📂 Repository Structure
 hybrid-gan-ids
+
 │
 ├── CNN
 
 │ ├── cnn.ipynb
 
 │ └── README.md
+
 │
 ├── nsl-kdd
 
@@ -26,6 +28,7 @@ hybrid-gan-ids
 │ ├── wcgan+xgboost
 
 │ └── README.md
+
 │
 ├── unsw-nb15
 
@@ -36,5 +39,6 @@ hybrid-gan-ids
 │ ├── wcgan+xgboost
 
 │ └── README.md
+
 │
 └── README.md
