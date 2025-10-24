@@ -20,8 +20,11 @@ Refer to individual folder `README.md` files for dataset-specific instructions.
 ## 📂 Repository Structure
 hybrid-gan-ids/
 │
+
 ├── CNN/
+
 │   ├── cnn.ipynb
+
 │   └── README.md
 │
 ├── nsl-kdd/
