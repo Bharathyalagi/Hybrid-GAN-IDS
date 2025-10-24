@@ -18,22 +18,22 @@ Refer to individual folder `README.md` files for dataset-specific instructions.
 ---
 
 ## 📂 Repository Structure
-hybrid-gan-ids/
-│<br>
-├── CNN/
+hybrid-gan-ids/<br>
+│
+├── CNN/<br>
 │   ├── cnn.ipynb
 │   └── README.md
-│<br>
-├── nsl-kdd/
+│
+├── nsl-kdd/<br>
 │   ├── acgan+decision-tree/
 │   ├── wcgan+decision-tree/
 │   ├── wcgan+xgboost/
 │   └── README.md
-│<br>
-├── unsw-nb15/
+│
+├── unsw-nb15/<br>
 │   ├── acgan+decision-tree/
 │   ├── wcgan+decision-tree/
 │   ├── wcgan+xgboost/
 │   └── README.md
-│<br>
+│
 └── README.md
