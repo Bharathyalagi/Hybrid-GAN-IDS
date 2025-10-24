@@ -44,13 +44,13 @@ hybrid-gan-ids/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+-----
 
 ### Note
 
 This is a large project, so it might be confusing at first. Please check the `README.md` files in each folder carefully to understand the workflow and structure.
 
----
+-----
 # Thank you
 
 
