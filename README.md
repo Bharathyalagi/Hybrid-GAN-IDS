@@ -9,36 +9,32 @@ The project explores the use of **ACGAN** and **WCGAN** models combined with mul
 ---
 
 ## 📂 Repository Structure
-hybrid-gan-ids/
+hybrid-gan-ids
 │
-
-├── CNN/
+├── CNN
 
 │ ├── cnn.ipynb
 
 │ └── README.md
 │
+├── nsl-kdd
 
-├── nsl-kdd/
+│ ├── acgan+decision-tree
 
-│ ├── acgan+decision-tree/
+│ ├── wcgan+decision-tree
 
-│ ├── wcgan+decision-tree/
-
-│ ├── wcgan+xgboost/
-
-│ └── README.md
-│
-
-├── unsw-nb15/
-
-│ ├── acgan+decision-tree/
-
-│ ├── wcgan+decision-tree/
-
-│ ├── wcgan+xgboost/
+│ ├── wcgan+xgboost
 
 │ └── README.md
 │
+├── unsw-nb15
 
+│ ├── acgan+decision-tree
+
+│ ├── wcgan+decision-tree
+
+│ ├── wcgan+xgboost
+
+│ └── README.md
+│
 └── README.md
